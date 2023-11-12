@@ -1,0 +1,14 @@
+.step 1:
+-create a variable to hold the first set of elements
+.step 2:
+-create a variable to hold the second set of elements
+.step 3:
+-traverse through the first set check element that are inside the first but not in the second set
+step 4:
+-traverse through the second set check elements that are inside the second set but not the first set
+.step 5:
+-create a variable called sum
+.step 6:
+-add all the distinct elements and store in the sum variable 
+.step 7:
+-print result
